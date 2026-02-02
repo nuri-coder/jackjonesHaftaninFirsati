@@ -1,37 +1,37 @@
-const data = [
-  {
-    name: "Erkek Fermuar Yakalı Polar Sweatshırt - Vesterbro",
-    img: "https://images.jackjones.com.tr/12262981/4572248/001/jackjones-jorvesterbrofleecequarterzipnoos-siyah.png?v=b7ec0a406b6e4f67b1158917fc6dcb44&format=webp&width=1280&quality=90&key=25-0-3&bg-color=%23f5f5f5",
-    oldPrice: "2.390,00",
-    newPrice: "1.195,00",
-    discount: "50%",
-    link: "https://www.jackjones.com.tr/tr-tr/product/12262981_2161/erkek-fermuar-yakali-polar-sweatshirt-vesterbro",
-  },
-
-  {
-    name: "Erkek Katlanabilir Rüzgara Dayanıklı Puffer Mont - State",
-    img: "https://images.jackjones.com.tr/12256985/4514725/001/jackjones-jjestatepackablepuffercollarnoos-gri.png?v=d59a1bb6e36fa086a92b5e340a8e9fe6&format=webp&width=1280&quality=90&key=25-0-3&bg-color=%23f5f5f5",
-    oldPrice: "2.390,00",
-    newPrice: "1.792,50",
-    discount: "25%",
-    link: "https://www.jackjones.com.tr/tr-tr/product/12256985_133/erkek-katlanabilir-ruzgara-dayanikli-puffer-mont-state",
-  },
-
-  {
-    name: "Erkek Bisiklet Yaka Baskılı Sweatshırt - Vıbrant",
-    img: "https://images.jackjones.com.tr/12277749/4763182/001/jackjones-jcovibrantsweatcrewneckstydaw24-gri.png?v=7f06c3cc37405a77e449fa03a7384aed&format=webp&width=1280&quality=90&key=25-0-3&bg-color=%23f5f5f5",
-    oldPrice: "1.390,00",
-    newPrice: "973,00",
-    discount: "30%",
-    link: "https://www.jackjones.com.tr/tr-tr/product/12277749_1901/rahat-kalip-bisiklet-yaka-nervurlu-mansetler-mansonlu-set-sweatshirt",
-  },
-
-  {
-    name: "Kadın Dik Yaka Kapitone Ceket - Serena",
-    img: "https://images.jackjones.com.tr/12278850/4773024/001/jackjones-jxserenaquiltedjacketotw-kahverengi.png?v=ed61b66bb5f71e9313844260e31d826c&format=webp&width=860&quality=95&key=25-0-1&bg-color=%23f5f5f5",
-    oldPrice: "2.790,00",
-    newPrice: "2.232,00",
-    discount: "20%",
-    link: "https://www.jackjones.com.tr/tr-tr/product/12278850_279/yuksek-dik-yaka-kapitone-ceket",
-  },
-];
+const data = {
+  status: false,
+  products: [
+    {
+      name: "Erkek Fermuar Yakalı Polar Sweatshirt - Vesterbro",
+      img: "https://images.jackjones.com.tr/12262981/4572248/001/jackjones-jorvesterbrofleecequarterzipnoos-siyah.png",
+      oldPrice: "2.390,00",
+      newPrice: "1.195,00",
+      discount: "50%",
+      link: "https://www.jackjones.com.tr/tr-tr/product/12262981_2161/erkek-fermuar-yakali-polar-sweatshirt-vesterbro",
+    },
+    {
+      name: "Erkek Katlanabilir Rüzgara Dayanıklı Puffer Mont - State",
+      img: "https://images.jackjones.com.tr/12256985/4514725/001/jackjones-jjestatepackablepuffercollarnoos-gri.png",
+      oldPrice: "2.390,00",
+      newPrice: "1.792,50",
+      discount: "25%",
+      link: "https://www.jackjones.com.tr/tr-tr/product/12256985_133/erkek-katlanabilir-ruzgara-dayanikli-puffer-mont-state",
+    },
+    {
+      name: "Erkek Bisiklet Yaka Baskılı Sweatshirt - Vibrant",
+      img: "https://images.jackjones.com.tr/12277749/4763182/001/jackjones-jcovibrantsweatcrewneckstydaw24-gri.png",
+      oldPrice: "1.390,00",
+      newPrice: "973,00",
+      discount: "30%",
+      link: "https://www.jackjones.com.tr/tr-tr/product/12277749_1901",
+    },
+    {
+      name: "Kadın Dik Yaka Kapitone Ceket - Serena",
+      img: "https://images.jackjones.com.tr/12278850/4773024/001/jackjones-jxserenaquiltedjacketotw-kahverengi.png",
+      oldPrice: "2.790,00",
+      newPrice: "2.232,00",
+      discount: "20%",
+      link: "https://www.jackjones.com.tr/tr-tr/product/12278850_279",
+    },
+  ],
+};
