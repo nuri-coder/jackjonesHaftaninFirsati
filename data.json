@@ -2,36 +2,36 @@
   "status": true,
   "products": [
     {
-      "name": "Erkek Fermuar Yakalı Polar Sweatshirt - Vesterbro",
-      "img": "https://images.jackjones.com.tr/12262981/4572248/001/jackjones-jorvesterbrofleecequarterzipnoos-siyah.png",
+      "name": "Kadın Suni Deri Bomber Ceket - Ala",
+      "img": "https://images.jackjones.com.tr/12282020/4831120/003/jackjones-jxcalabomberjacketotw-mor.jpg?v=08489f80cfc9e634549d802a7003e0ad&format=webp&width=1280&quality=90&key=25-0-3&bg-color=%23f5f5f5",
       "oldPrice": "2.390,00",
-      "newPrice": "1.195,00",
-      "discount": "Sepette 50% İndirim",
-      "link": "https://www.jackjones.com.tr/tr-tr/product/12262981_2161/erkek-fermuar-yakali-polar-sweatshirt-vesterbro"
-    },
-    {
-      "name": "Erkek Katlanabilir Rüzgara Dayanıklı Puffer Mont - State",
-      "img": "https://images.jackjones.com.tr/12256985/4514725/001/jackjones-jjestatepackablepuffercollarnoos-gri.png",
-      "oldPrice": "2.390,00",
-      "newPrice": "1.792,50",
-      "discount": "Sepette 25% İndirim",
-      "link": "https://www.jackjones.com.tr/tr-tr/product/12256985_133/erkek-katlanabilir-ruzgara-dayanikli-puffer-mont-state"
-    },
-    {
-      "name": "Erkek Bisiklet Yaka Baskılı Sweatshirt - Vibrant",
-      "img": "https://images.jackjones.com.tr/12277749/4763182/001/jackjones-jcovibrantsweatcrewneckstydaw24-gri.png",
-      "oldPrice": "1.390,00",
-      "newPrice": "973,00",
-      "discount": "Sepette 30% İndirim",
-      "link": "https://www.jackjones.com.tr/tr-tr/product/12277749_1901/rahat-kalip-bisiklet-yaka-nervurlu-mansetler-mansonlu-set-sweatshirt"
-    },
-    {
-      "name": "Kadın Dik Yaka Kapitone Ceket - Serena",
-      "img": "https://images.jackjones.com.tr/12278850/4773024/001/jackjones-jxserenaquiltedjacketotw-kahverengi.png",
-      "oldPrice": "2.790,00",
-      "newPrice": "2.232,00",
+      "newPrice": "1.912,00",
       "discount": "Sepette 20% İndirim",
-      "link": "https://www.jackjones.com.tr/tr-tr/product/12278850_279/yuksek-dik-yaka-kapitone-ceket"
+      "link": "https://www.jackjones.com.tr/tr-tr/product/12282020_1101/spread-yaka-otw-bomber-ceket?utm_source=anatomi"
+    },
+    {
+      "name": "Erkek Nakış İşlemeli Sweatshırt - Norrebro",
+      "img": "https://images.jackjones.com.tr/12282893/4825903/003/jackjones-jornorrebrombsweatcrewnoos-beyaz.jpg?v=2a084dd1729d2c792f7ebdf36d254f19&format=webp&width=1280&quality=90&key=25-0-3&bg-color=%23f5f5f5",
+      "oldPrice": "2.190,00",
+      "newPrice": "1.642,50",
+      "discount": "Sepette 25% İndirim",
+      "link": "https://www.jackjones.com.tr/tr-tr/product/12282893_3308/rahat-kalip-bisiklet-yaka-mansonlu-set-sweatshirt?utm_source=anatomi"
+    },
+    {
+      "name": "Erkek Triko Tişört - Emıl",
+      "img": "https://images.jackjones.com.tr/12268182/4639419/003/jackjones-jjeemilknitteessln-siyah.jpg?v=ba7e39290ed54cd5b9f05b3655ef718d&format=webp&width=1280&quality=90&key=25-0-3&bg-color=%23f5f5f5",
+      "oldPrice": "1.990,00",
+      "newPrice": "1.293,50",
+      "discount": "Sepette 35% İndirim",
+      "link": "https://www.jackjones.com.tr/tr-tr/product/12268182_2161_1152442/rahat-kalip-bisiklet-yaka-suveter?utm_source=anatomi"
+    },
+    {
+      "name": "Erkek Gömlek Yaka Ceket - Perfect",
+      "img": "https://images.jackjones.com.tr/12270677/4669617/003/jackjones-jjeperfectshacketsn-siyah.jpg?v=f9cb52fa6dabffce695a3abdae50fdea&format=webp&width=1280&quality=90&key=25-0-3&bg-color=%23f5f5f5",
+      "oldPrice": "2.790,00",
+      "newPrice": "1.813,50",
+      "discount": "Sepette 35% İndirim",
+      "link": "https://www.jackjones.com.tr/tr-tr/product/12270677_2161/spread-yaka-shacket?utm_source=anatomi"
     }
   ]
 }
