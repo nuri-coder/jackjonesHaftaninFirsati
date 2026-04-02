@@ -2,36 +2,68 @@
   "status": true,
   "products": [
     {
-      "name": "Kadın Suni Deri Bomber Ceket - Ala",
-      "img": "https://images.jackjones.com.tr/12282020/4831120/003/jackjones-jxcalabomberjacketotw-mor.jpg?v=08489f80cfc9e634549d802a7003e0ad&format=webp&width=1280&quality=90&key=25-0-3&bg-color=%23f5f5f5",
-      "oldPrice": "2.390,00",
-      "newPrice": "1.912,00",
-      "discount": "Sepette 20% İndirim",
-      "link": "https://www.jackjones.com.tr/tr-tr/product/12282020_1101/spread-yaka-otw-bomber-ceket?utm_source=anatomi"
-    },
-    {
-      "name": "Erkek Nakış İşlemeli Sweatshırt - Norrebro",
-      "img": "https://images.jackjones.com.tr/12282893/4825903/003/jackjones-jornorrebrombsweatcrewnoos-beyaz.jpg?v=2a084dd1729d2c792f7ebdf36d254f19&format=webp&width=1280&quality=90&key=25-0-3&bg-color=%23f5f5f5",
-      "oldPrice": "2.190,00",
-      "newPrice": "1.642,50",
-      "discount": "Sepette 25% İndirim",
-      "link": "https://www.jackjones.com.tr/tr-tr/product/12282893_3308/rahat-kalip-bisiklet-yaka-mansonlu-set-sweatshirt?utm_source=anatomi"
-    },
-    {
-      "name": "Erkek Triko Tişört - Emıl",
-      "img": "https://images.jackjones.com.tr/12268182/4639419/003/jackjones-jjeemilknitteessln-siyah.jpg?v=ba7e39290ed54cd5b9f05b3655ef718d&format=webp&width=1280&quality=90&key=25-0-3&bg-color=%23f5f5f5",
+      "name": "Kadın Barrel Jean - Fujı",
+      "img": "https://images.jackjones.com.tr/12279605/4789331/003/jackjones-jxfujibarrelmwjeansr251dnmnoos-mavi.jpg?v=7e6762d555a55d402755a0034b9c9616&format=webp&width=1280&quality=90&key=25-0-3&bg-color=%23f5f5f5",
       "oldPrice": "1.990,00",
-      "newPrice": "1.293,50",
-      "discount": "Sepette 35% İndirim",
-      "link": "https://www.jackjones.com.tr/tr-tr/product/12268182_2161_1152442/rahat-kalip-bisiklet-yaka-suveter?utm_source=anatomi"
+      "newPrice": "",
+      "discount": "",
+      "link": "https://www.jackjones.com.tr/tr-tr/product/12279605_2115/bol-kalip-kot?utm_source=anatomi"
     },
     {
-      "name": "Erkek Gömlek Yaka Ceket - Perfect",
-      "img": "https://images.jackjones.com.tr/12270677/4669617/003/jackjones-jjeperfectshacketsn-siyah.jpg?v=f9cb52fa6dabffce695a3abdae50fdea&format=webp&width=1280&quality=90&key=25-0-3&bg-color=%23f5f5f5",
+      "name": "Erkek Alex 086 Baggy Fıt Jean",
+      "img": "https://images.jackjones.com.tr/12294198/4969195/003/jackjones-jjialexjjnorrebrons086-mavi.jpg?v=91a8427eb24646ea5bee1ab401898929&format=webp&width=1280&quality=90&key=25-0-3&bg-color=%23f5f5f5",
+      "oldPrice": "3.290,00",
+      "newPrice": "",
+      "discount": "",
+      "link": "https://www.jackjones.com.tr/tr-tr/product/12294198_3561_1256543/bol-kalip-kot?utm_source=anatomi"
+    },
+    {
+      "name": "Erkek Cep Detaylı Gömlek Ceket - Derry",
+      "img": "https://images.jackjones.com.tr/12293303/4974600/003/jackjones-jprbluderryworkerl-sovershirt-mavi.jpg?v=39a5ea117f2a2b40a31f12b531da865d&format=webp&width=1280&quality=90&key=25-0-3&bg-color=%23f5f5f5",
+      "oldPrice": "3.990,00",
+      "newPrice": "",
+      "discount": "",
+      "link": "https://www.jackjones.com.tr/tr-tr/product/12293303_2077_1258660/rahat-kalip-gomlek-yaka-dugmeli-mansetler-gomlek?utm_source=anatomi"
+    },
+    {
+      "name": "Erkek Rüzgar Geçirmez Palto - Mıles",
+      "img": "https://images.jackjones.com.tr/12281353/4810168/003/jackjones-jprccmilesmaccoatsn-siyah.jpg?v=6f00decc8b30d24ecd11cb5834dbc546&format=webp&width=1280&quality=90&key=25-0-3&bg-color=%23f5f5f5",
+      "oldPrice": "3.490,00",
+      "newPrice": "",
+      "discount": "",
+      "link": "https://www.jackjones.com.tr/tr-tr/product/12281353_2161/spread-yaka-palto?utm_source=anatomi"
+    },
+        {
+      "name": "Erkek Çizgili Gömlek - Harvey",
+      "img": "https://images.jackjones.com.tr/12293325/4954339/003/jackjones-jjeharveyoxfordl-sshirtnoos-mavi.jpg?v=b79098b3d3d79113db2cef7fb8d698d6&format=webp&width=1280&quality=90&key=25-0-3&bg-color=%23f5f5f5",
+      "oldPrice": "2.490,00",
+      "newPrice": "",
+      "discount": "",
+      "link": "https://www.jackjones.com.tr/tr-tr/product/12293325_1966_1251303/normal-kalip-dugmeli-yaka-dugmeli-mansetler-gomlek?utm_source=anatomi"
+    },
+        {
+      "name": "Erkek Tony 460 Denım Şort",
+      "img": "https://images.jackjones.com.tr/12289248/4907056/003/jackjones-jjitonyjjoriginalshortsam460sn-mavi.jpg?v=e6dfc59c9d0fb4f340b4b92850dd835f&format=webp&width=1280&quality=90&key=25-0-3&bg-color=%23f5f5f5",
       "oldPrice": "2.790,00",
-      "newPrice": "1.813,50",
-      "discount": "Sepette 35% İndirim",
-      "link": "https://www.jackjones.com.tr/tr-tr/product/12270677_2161/spread-yaka-shacket?utm_source=anatomi"
+      "newPrice": "",
+      "discount": "",
+      "link": "https://www.jackjones.com.tr/tr-tr/product/12289248_3561_1236282/bol-kalip-sortlar?utm_source=anatomi"
+    },
+        {
+      "name": "Erkek Göğüs ve Sırt Baskılı Tişört - Montauk",
+      "img": "https://images.jackjones.com.tr/12292148/4944371/003/jackjones-jormontaukaopbackteesscrewnecksn-siyah.jpg?v=308af083768e7340775903b5868e0680&format=webp&width=1280&quality=90&key=25-0-3&bg-color=%23f5f5f5",
+      "oldPrice": "990,00",
+      "newPrice": "",
+      "discount": "",
+      "link": "https://www.jackjones.com.tr/tr-tr/product/12292148_2161/normal-kalip-bisiklet-yaka-tisort?utm_source=anatomi"
+    },
+    {
+      "name": "Kadın U Yaka Elbise - Mına",
+      "img": "https://images.jackjones.com.tr/12288635/4916186/003/jackjones-jxminacomfylongdressknitsn-siyah.jpg?v=580f96fbc32ef56d2bbe67fe71573f58&format=webp&width=1280&quality=90&key=25-0-3&bg-color=%23f5f5f5",
+      "oldPrice": "1.990,00",
+      "newPrice": "",
+      "discount": "",
+      "link": "https://www.jackjones.com.tr/tr-tr/product/12288635_2161/dar-kalip-u-yaka-genis-kayislar-uzun-elbise?utm_source=anatomi"
     }
   ]
 }
